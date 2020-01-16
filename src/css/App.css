@@ -7,7 +7,9 @@ body {
   text-align: center;
 }
 
-.box1{
-  margin: 30%;
+#box1{
+  margin: 10%;
   border: solid 3px black;
+  background-color: blue;
+  padding: 30%;
 }
