@@ -11,3 +11,7 @@ body {
   margin: 30%;
   border: solid 3px black;
 }
+
+.questionBox{
+  border: solid;
+}
