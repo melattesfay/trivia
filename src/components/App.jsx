@@ -8,6 +8,10 @@ class App extends Component {
     return (
       <div className="app">
         Trivia!
+        <h1 class="box1"> one</h1>
+        <h1 class="box1"> one</h1>
+        <h1 class="box1"> one</h1>
+        <h1 class="box1"> one</h1>
         
       </div>
     );

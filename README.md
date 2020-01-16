@@ -2,7 +2,7 @@
 
 ## Project Description
 
-In this unit, coders will work in groups to build a project using HTML, CSS, REACT, and Firebase. Their task is to build out the front-end for a Kahoot style question game that displays a question and the possible answers, allows a user to choose answer and determine whether they are right or wrong. This project is intended to highlight some important aspects of goal setting and project management. The project will culminate in a final presentation.
+In this unit, coders will work in groups to build a project using HTML, CSS, REACT, and Firebase. Their task is to build out the front-end for a Kahoot style question game that displays a question and the possible answers, allows a user to choose answer and determine whether they are right or wrong. This project is intended to highlight some important aspects of goal setting and project management. The project will culminate in a final presentation. 
 
 ====
 ### Day 1: Project Setup and Introduction to Visual Studio Ocde
