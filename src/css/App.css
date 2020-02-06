@@ -7,6 +7,7 @@ body {
   text-align: center;
 }
 
+
 .box1{
   padding: 15px 32px;
   text-align: center;
@@ -23,6 +24,13 @@ body {
   border: solid;
   border-style: groove;
   padding:30px;
+}
+#box1{
+  margin: 10%;
+  border: solid 3px black;
+  background-color: blue;
+  padding: 3%;
+
 }
 
 #title{

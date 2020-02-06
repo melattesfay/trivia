@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import '../css/App.css';
+import Answer from './Answer';
 // import components
 
 class App extends Component {
@@ -16,6 +17,12 @@ class App extends Component {
         <button class="box1"> one</button>
         <button class="box1"> one</button>
         <button class="box1"> one</button>
+        Trivia!
+        <Answer> </Answer>
+        <Answer> </Answer>
+        <Answer> </Answer>
+        <Answer> </Answer>
+
         
       </div>
     );
