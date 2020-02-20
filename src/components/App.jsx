@@ -7,8 +7,12 @@ class App extends Component {
 
   constructor(props) {
     super(props);
-    
+    this.state = {
+        currentQuestion: 1   
+    }
   }
+
+  
 
   render() {
     return (
@@ -16,11 +20,12 @@ class App extends Component {
         <h1 id="title">Guess where this movie/tv show character is from! Quiz!</h1>
         <strong id="timer"> Timer: 0 </strong>
         <h1 class= "questionBox" id="q1"> Question 1:
-        {this.props.questionList["-LVd5IPeo9knAOjr2JIR"].question_text}</h1>
-        <button class="box1"> one</button>
-        <button class="box1"> one</button>
-        <button class="box1"> one</button>
-        <button class="box1"> one</button>
+        {this.props.questionList[this.state.currentQuestion].question_text}</h1>
+        <button class="choiceBox"> {this.props.questionList[0].choices[0]}</button>
+        <button class="choiceBox">  {this.props.questionList[0].choices[1]}</button>
+        <button class="choiceBox">  {this.props.questionList[0].choices[2]}</button>
+        <button class="choiceBox">  {this.props.questionList[0].choices[3]}</button>
+        
        
         
       </div>
