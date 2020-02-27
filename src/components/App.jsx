@@ -39,7 +39,7 @@ class App extends Component {
         <button class="choiceBox">  {this.props.questionList[0].choices[0]}</button>
         
         <button onClick={() => this.nextBtn()}>Next Question</button>
-
+        console.log("hello");
        
         
       </div>
