@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: #2189EA;
 }
 
 .app {
@@ -24,6 +25,7 @@ body {
   border: solid;
   border-style: groove;
   padding:30px;
+  background-color: white;
 }
 
 #title{
