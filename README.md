@@ -28,8 +28,7 @@ Goal: Set up your your components
 - [ ] Use your remaining time to style your project
 
 ### Day 4: Read complex data from firebase
-- [ ] Replace sample data with firebase data to display the questions in your components
-
+  
 ### Day 5: Use unidirectional data flow to pass down state
 - [ ] Set the initial state of your app component
 - [ ] Use props to pass state to your child components
