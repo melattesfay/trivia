@@ -9,21 +9,27 @@ body {
 
 
 .choiceBox{
-  padding: 15px 32px;
+  /* padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
   margin: 4px 30px;
   cursor: pointer;
-  border-style: outset;
-  
+  border-style: outset; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  width:100%;
+
 }
 
 .questionBox{
   border: solid;
   border-style: groove;
   padding:30px;
+  
 }
 
 #title{
